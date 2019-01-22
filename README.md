@@ -15,7 +15,7 @@ It was a really **incredible** and **interesting** project! You may think that I
 alert ("Hello World!")
 ``` 
 but **Confucius** said: 
-> Even the way in thousand miles start from the first step
+> Even the way in thousand miles starts from the first step
 
 So, May I suppose you want to visit this incredible site? Here you are! ~~Only today and only for you~~ [My Site](https://index.html
 ).
