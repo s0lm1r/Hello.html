@@ -22,12 +22,7 @@ So, May I suppose you want to visit this incredible site? Here you are! ~~Only t
 
 
 
-Obviously you have some troubles and can't visit this link, it is not exist. It was a joke. **ha-ha-ha** 
-
-
-Any way, I can show you this photo at least. 
-
-[![cats](//placehold.it/30x30)](https://avatars.mds.yandex.net/get-pdb/1211668/eb477093-462d-4fbd-952d-77992999c2b9/s1200) 
+Obviously you have some troubles and can't visit this link, it is not exist. It was a joke. **ha-ha-ha** Don't be so serious! Smile :=) 
 
 ##Total
 
