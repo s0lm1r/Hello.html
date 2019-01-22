@@ -24,14 +24,3 @@ So, May I suppose you want to visit this incredible site? Here you are! ~~Only t
 
 Obviously you have some troubles and can't visit this link, it is not exist. It was a joke. **ha-ha-ha** Don't be so serious! Smile :=) 
 
-###Total
-
-I spent around 10 hours for my project and hope in future I will do it faster and better.
-
-Enough for today!  Would be  better  look at this spreadsheet. It's kind of inspiration
-
-|My project  |spent hours|Profit|
-------------- | -------------
-|myFirstProject | 10|I was accepted to FE courses|
-|mySecondProject  | 1 | 500$|
-|myThirdProject|1|1000$|
