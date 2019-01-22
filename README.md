@@ -1,16 +1,41 @@
 # Hello.html
-my first repository
-This is just a sample. You can play around with your own text right here.
 
-Markdown
--------------
+# My first Project 
+---------
 
-...is really just ordinary text, *plain and simple*. How is it good for you?
+It was a really **incredible** and **interesting** project! You may think that I'm kidding but it's true!
 
-- You just **type naturally**, and the result looks good.
-- You **don't have to worry** about clicking formatting buttons.
-  - Or fiddling with indentation. (Two spaces is all you need.)
+- I tried to create site with _links_ and ***images***
+- My site is an interactive. 
+  - You may click any link. 
+  - ~~even registered~~ .
+ - ~~Example Javascript~~. Honestly, I knew only one Javascript at that moment.
+```javascript
+// Code 
+alert ("Hello World!")
+``` 
+but **Confucius** said: 
+> Even the way in thousand miles start from the first step
 
-To see what else you can do with Markdown (including **tables**, **images**, **numbered lists**, and more) take a look at the [Cheatsheet][1]. And then try it out by typing in this box!
+So, May I suppose you want to visit this incredible site? Here you are! ~~Only today and only for you~~ [My Site] [1]
 
-[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+[1]: https://index.html
+
+Obviously you have some troubles and can't visit this link, it is not exist. It was a joke. **ha-ha-ha** 
+
+
+Any way, I can show you this photo at least. 
+
+[![cats](//placehold.it/30x30)](https://avatars.mds.yandex.net/get-pdb/1211668/eb477093-462d-4fbd-952d-77992999c2b9/s1200) 
+
+##Total
+
+I spent around 10 hours for my project and hope in future I will do it faster and better.
+
+Enough for today!  Would be  better  look at this spreadsheet. It's kind of inspiration
+
+My project  |spent hours|Profit
+------------- | -------------
+myFirstProject | 10|I was accepted to FE courses
+mySecondProject  | 1 | 500$
+myThirdProject|1|1000$
