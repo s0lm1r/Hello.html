@@ -17,9 +17,10 @@ alert ("Hello World!")
 but **Confucius** said: 
 > Even the way in thousand miles start from the first step
 
-So, May I suppose you want to visit this incredible site? Here you are! ~~Only today and only for you~~ [My Site] [1]
+So, May I suppose you want to visit this incredible site? Here you are! ~~Only today and only for you~~ [My Site](https://index.html
+).
 
-[1]: https://index.html
+
 
 Obviously you have some troubles and can't visit this link, it is not exist. It was a joke. **ha-ha-ha** 
 
