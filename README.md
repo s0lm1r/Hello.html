@@ -22,5 +22,5 @@ So, May I suppose you want to visit this incredible site? Here you are! ~~Only t
 
 
 
-Obviously you have some troubles and can't visit this link, it is not exist. It was a joke. **ha-ha-ha** Don't be so serious! Smile :=) 
+Obviously you have some troubles and can't visit this link, one  dosn't exist. It was a joke. **ha-ha-ha** Don't be so serious! Smile :=) 
 
